@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>HP Externship Analytics Project </b>
+  - [Predicting Factor that will lead to more StartUp funding](https://github.com/SamuCond/HP-Startup-Funding-Analysis.git)
 
 <h2> 🤳 Connect with me:</h2>
 
