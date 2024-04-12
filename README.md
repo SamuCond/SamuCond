@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>HP Externship Analytics Project </b>
+- <b>HP Tech Ventures Externship Analytics Project </b>
   - [Predicting Factors that will lead to more StartUp funding](https://github.com/SamuCond/HP-Startup-Funding-Analysis.git)
 
-- <b>HP Unstructured Data Analytics Project </b>
+- <b>Unstructured Data Analytics Project </b>
   - [Sentiment Analysis of Poems](https://github.com/SamuCond/Sentiment-Analysis-of-Poems.git)
   - [Predicting Factors that will lead to more Successful Wrestling Career](https://github.com/SamuCond/Factors-that-Lead-to-a-Successfull-Wrestling-Career.git)
 
