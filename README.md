@@ -5,6 +5,12 @@
 - <b>HP Externship Analytics Project </b>
   - [Predicting Factor that will lead to more StartUp funding](https://github.com/SamuCond/HP-Startup-Funding-Analysis.git)
 
+- <b>HP Unstructured Data Analytics Project </b>
+  - [Sentiment Analysis of Poems](https://github.com/SamuCond/Sentiment-Analysis-of-Poems.git)
+  
+- <b>HP Externship Analytics Project </b>
+  - [Predicting Factor that will lead to more StartUp funding](https://github.com/SamuCond/HP-Startup-Funding-Analysis.git)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
